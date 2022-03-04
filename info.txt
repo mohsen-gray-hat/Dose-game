@@ -1,0 +1,7 @@
+programmer : mohsen abbasi
+project name : Dose game by python
+==================================
+this is game and you can play two by two or play with system
+it has a goss GUI
+also it has round for game it means how many round you want to play ?
+.......................................................
